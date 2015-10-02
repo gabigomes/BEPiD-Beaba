@@ -1,8 +1,8 @@
-BEPiD-MiniChallenge01
+BEPiD-MiniChallenge03
 Centro Universitário Senac - Santo Amaro - SP BEPiD - Centro iOS
 
-River Watcher
+Beaba
 
 Autores:
 
-Adailson Vicenzo Gabriela Felipe
+Bruno Fonseca, Gabriela Gomes, João Pedro e Mayara Rodrigues
